@@ -9,19 +9,20 @@ code {
 }
 .Navbar{
   text-align: center;
+  
 }
 #photo{
   width: 150px;
   height: 150px;
-
-  
+ 
 }
+
 #conteiner{
 width: 57em;
 height: 500px;
 display: flex;
-margin-left: 500px;
 justify-content: space-between;
+margin-left: 16%;
 }
 #conteinerTwo{
 justify-self: center;

@@ -54,13 +54,13 @@ function App() {
   return (
     <>
       <Navbar />
-      <div>
+      <div className="about-me">
         {loading ? <h1 style={{ textAlign: 'center' }}>Loading...</h1> : (
           <>
             <div  className = "nes-container is-rounded" id = "conteiner">
                 <div>
-                  <p id = "firstP">Bem vindo a Pokedex!! <br></br>Está é uma api em que se obtem
-                  <br></br> todos os dados sobre todos pokemons!</p>
+                  <p id = "firstP">Bienvenido a Pokedex!! <br></br>Esta es una api donde obtienes
+                  <br></br>todos los datos sobre todos los pokemons!</p>
                 </div>
                 <div id = 'hello'>
                   <p className = "animate__slideInLeft">Hello World!!</p>
