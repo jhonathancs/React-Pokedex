@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background: #DCDCDC;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.Navbar{
+  text-align: center;
+}
+#photo{
+  width: 150px;
+  height: 150px;
+
+  
+}
+#conteiner{
+width: 57em;
+height: 500px;
+display: flex;
+margin-left: 500px;
+justify-content: space-between;
+}
+#conteinerTwo{
+justify-self: center;
+position: absolute;
+margin-left: 360px;
+top: 450px;
+
+}
+#firstP{
+  top: 70px;
+  position: absolute;
+}
+#hello{
+  position: absolute;
+  left: 350px;
+}
